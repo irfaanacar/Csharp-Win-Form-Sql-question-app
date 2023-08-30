@@ -1,0 +1,10 @@
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\bin\Debug\sqlsoruUygulamasi.exe.config
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\bin\Debug\sqlsoruUygulamasi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\bin\Debug\sqlsoruUygulamasi.pdb
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.csproj.AssemblyReference.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.Form1.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.Properties.Resources.resources
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.csproj.GenerateResource.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.exe
+C:\Users\irfaa\OneDrive\Masaüstü\C#\sqlsoruUygulamasi\obj\Debug\sqlsoruUygulamasi.pdb
